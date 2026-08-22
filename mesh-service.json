@@ -1,0 +1,7 @@
+{
+  "$schema": "https://baditaflorin.github.io/mesh-common/mesh-service.schema.json",
+  "id": "mesh-pair-mixer",
+  "category": "Work & learning",
+  "subcategory": "Collaboration & practice",
+  "useCases": ["pairing", "workshops", "conversation"]
+}
